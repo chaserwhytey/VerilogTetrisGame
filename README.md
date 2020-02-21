@@ -1,2 +1,2 @@
 # VerilogTetrisGame
-I implemented this tetris game in SystemVerilog myself. The project was fairly difficult and needed to be implemented in a very precise way. After writing and rewriting the code several times, I eventually figured it out. 
+I implemented this tetris game in SystemVerilog myself. The project was fairly difficult and needed to be implemented in a very precise way. After writing and rewriting the code several times, I eventually figured it out. A VGA monitor was used to display the game, a mouse was used to control movements, and a speaker was used and interfaced with the FPGA to play a tetris theme song remix.
